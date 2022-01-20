@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642690408 source:c:\work\sborka\mycomplex.cpp
+	<iostream>
+	<cmath>
+	"mycomplex.h"
+
+1642669327 c:\work\sborka\mycomplex.h
+	<iostream>
+
